@@ -1,0 +1,1114 @@
+No.     Time           Source                Destination           Protocol Length Info
+      1 0.000000       192.168.147.75        224.0.0.251           MDNS     155    Standard query 0x0000 ANY 75.147.168.192.in-addr.arpa, "QM" question ANY bfeb8148-192-168-147-075.local, "QM" question A 192.168.147.75 PTR bfeb8148-192-168-147-075.local
+
+Frame 1: 155 bytes on wire (1240 bits), 155 bytes captured (1240 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+      2 0.209072       192.168.147.75        224.0.0.251           MDNS     155    Standard query 0x0000 ANY 75.147.168.192.in-addr.arpa, "QM" question ANY bfeb8148-192-168-147-075.local, "QM" question A 192.168.147.75 PTR bfeb8148-192-168-147-075.local
+
+Frame 2: 155 bytes on wire (1240 bits), 155 bytes captured (1240 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+      3 0.616770       192.168.147.75        224.0.0.251           MDNS     155    Standard query 0x0000 ANY 75.147.168.192.in-addr.arpa, "QM" question ANY bfeb8148-192-168-147-075.local, "QM" question A 192.168.147.75 PTR bfeb8148-192-168-147-075.local
+
+Frame 3: 155 bytes on wire (1240 bits), 155 bytes captured (1240 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+      4 0.825726       192.168.147.75        224.0.0.251           MDNS     143    Standard query response 0x0000 PTR, cache flush bfeb8148-192-168-147-075.local A, cache flush 192.168.147.75
+
+Frame 4: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+      5 1.026137       192.168.147.75        224.0.0.251           MDNS     300    Standard query 0x0000 ANY Z_8_5003869._ptp._tcp.local, "QM" question ANY bfeb8148-192-168-147-075.local, "QM" question ANY 75.147.168.192.in-addr.arpa, "QM" question A 192.168.147.75 PTR bfeb8148-192-168-147-075.local SRV 0 0 15740 bfeb8148-192-168-147-075.local TXT
+
+Frame 5: 300 bytes on wire (2400 bits), 300 bytes captured (2400 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+      6 1.231333       192.168.147.75        224.0.0.251           MDNS     300    Standard query 0x0000 ANY Z_8_5003869._ptp._tcp.local, "QM" question ANY bfeb8148-192-168-147-075.local, "QM" question ANY 75.147.168.192.in-addr.arpa, "QM" question A 192.168.147.75 PTR bfeb8148-192-168-147-075.local SRV 0 0 15740 bfeb8148-192-168-147-075.local TXT
+
+Frame 6: 300 bytes on wire (2400 bits), 300 bytes captured (2400 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+      7 1.434719       192.168.147.75        224.0.0.251           MDNS     300    Standard query 0x0000 ANY Z_8_5003869._ptp._tcp.local, "QM" question ANY bfeb8148-192-168-147-075.local, "QM" question ANY 75.147.168.192.in-addr.arpa, "QM" question A 192.168.147.75 PTR bfeb8148-192-168-147-075.local SRV 0 0 15740 bfeb8148-192-168-147-075.local TXT
+
+Frame 7: 300 bytes on wire (2400 bits), 300 bytes captured (2400 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+      8 1.639860       192.168.147.75        224.0.0.251           MDNS     143    Standard query response 0x0000 PTR, cache flush bfeb8148-192-168-147-075.local A, cache flush 192.168.147.75
+
+Frame 8: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+      9 1.643184       192.168.147.75        224.0.0.251           MDNS     276    Standard query response 0x0000 TXT, cache flush PTR Z_8_5003869._ptp._tcp.local SRV, cache flush 0 0 15740 bfeb8148-192-168-147-075.local PTR _ptp._tcp.local
+
+Frame 9: 276 bytes on wire (2208 bits), 276 bytes captured (2208 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     10 2.867090       192.168.147.75        224.0.0.251           MDNS     333    Standard query response 0x0000 TXT, cache flush A, cache flush 192.168.147.75 PTR, cache flush bfeb8148-192-168-147-075.local PTR Z_8_5003869._ptp._tcp.local SRV, cache flush 0 0 15740 bfeb8148-192-168-147-075.local PTR _ptp._tcp.local
+
+Frame 10: 333 bytes on wire (2664 bits), 333 bytes captured (2664 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     11 4.097340       192.168.147.75        224.0.0.251           MDNS     143    Standard query response 0x0000 PTR, cache flush bfeb8148-192-168-147-075.local A, cache flush 192.168.147.75
+
+Frame 11: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     12 4.918681       192.168.147.75        224.0.0.251           MDNS     333    Standard query response 0x0000 TXT, cache flush A, cache flush 192.168.147.75 PTR, cache flush bfeb8148-192-168-147-075.local PTR Z_8_5003869._ptp._tcp.local SRV, cache flush 0 0 15740 bfeb8148-192-168-147-075.local PTR _ptp._tcp.local
+
+Frame 12: 333 bytes on wire (2664 bits), 333 bytes captured (2664 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     13 6.149371       192.168.147.104       192.168.147.75        TCP      76     47728 → 15740 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 SACK_PERM TSval=2720745203 TSecr=0 WS=1024
+
+Frame 13: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     14 6.159536       192.168.147.75        192.168.147.104       TCP      76     15740 → 47728 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1460 SACK_PERM TSval=3846525193 TSecr=2720745203 WS=16
+
+Frame 14: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     15 6.159909       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=1 Ack=1 Win=88064 Len=0 TSval=2720745281 TSecr=3846525193
+
+Frame 15: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     16 6.178441       192.168.147.104       192.168.147.75        PTP/IP   126    Init Command Request GUID: e9dca7d89c7b440dba010f9e04c0ec23 Name: 䄀渀搀爀漀椀搀 䐀攀瘀椀挀攀
+
+Frame 16: 126 bytes on wire (1008 bits), 126 bytes captured (1008 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 1, Ack: 1, Len: 58
+Picture Transfer Protocol
+    Length: 58
+    Packet Type: Init Command Request Packet (0x00000001)
+    GUID: e9dca7d89c7b440dba010f9e04c0ec23
+    Host Name: 䄀渀搀爀漀椀搀 䐀攀瘀椀挀攀
+    Version: 1.0
+
+No.     Time           Source                Destination           Protocol Length Info
+     17 6.186719       192.168.147.75        192.168.147.104       TCP      68     15740 → 47728 [ACK] Seq=1 Ack=59 Win=28960 Len=0 TSval=3846525222 TSecr=2720745299
+
+Frame 17: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 1, Ack: 59, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     18 6.188588       192.168.147.75        192.168.147.104       PTP/IP   124    Init Command Ack Connection #:1 GUID: 04b004510000100180013cbee134e25a Name: Z_8_5003869
+
+Frame 18: 124 bytes on wire (992 bits), 124 bytes captured (992 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 1, Ack: 59, Len: 56
+Picture Transfer Protocol
+    Length: 56
+    Packet Type: Init Command ACK Packet (0x00000002)
+    Connection Number: 1
+    GUID: 04b004510000100180013cbee134e25a
+    Host Name: Z_8_5003869
+    Version: 1.0
+
+No.     Time           Source                Destination           Protocol Length Info
+     19 6.188793       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=59 Ack=57 Win=88064 Len=0 TSval=2720745310 TSecr=3846525223
+
+Frame 19: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 59, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     20 6.204398       192.168.147.104       192.168.147.75        TCP      76     47730 → 15740 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 SACK_PERM TSval=2720745325 TSecr=0 WS=1024
+
+Frame 20: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     21 6.210596       192.168.147.75        192.168.147.104       TCP      76     15740 → 47730 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1460 SACK_PERM TSval=3846525246 TSecr=2720745325 WS=16
+
+Frame 21: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47730, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     22 6.210978       192.168.147.104       192.168.147.75        TCP      68     47730 → 15740 [ACK] Seq=1 Ack=1 Win=88064 Len=0 TSval=2720745332 TSecr=3846525246
+
+Frame 22: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     23 6.231054       192.168.147.104       192.168.147.75        PTP/IP   80     Init Event Request Connection #:1
+
+Frame 23: 80 bytes on wire (640 bits), 80 bytes captured (640 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 1, Ack: 1, Len: 12
+Picture Transfer Protocol
+    Length: 12
+    Packet Type: Init Event Request Packet (0x00000003)
+    Connection Number: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+     24 6.237319       192.168.147.75        192.168.147.104       TCP      68     15740 → 47730 [ACK] Seq=1 Ack=13 Win=28960 Len=0 TSval=3846525273 TSecr=2720745352
+
+Frame 24: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47730, Seq: 1, Ack: 13, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     25 6.237580       192.168.147.75        192.168.147.104       PTP/IP   76     Init Event Ack
+
+Frame 25: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47730, Seq: 1, Ack: 13, Len: 8
+Picture Transfer Protocol
+    Length: 8
+    Packet Type: Init Event Ack Packet (0x00000004)
+
+No.     Time           Source                Destination           Protocol Length Info
+     26 6.237762       192.168.147.104       192.168.147.75        TCP      68     47730 → 15740 [ACK] Seq=13 Ack=9 Win=88064 Len=0 TSval=2720745359 TSecr=3846525274
+
+Frame 26: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 13, Ack: 9, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     27 6.239754       192.168.147.104       192.168.147.75        PTP/IP   76     Picture Transfer Protocol
+
+Frame 27: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 13, Ack: 9, Len: 8
+Picture Transfer Protocol
+    Length: 8
+    Packet Type: Probe Request Packet (0x0000000d)
+
+No.     Time           Source                Destination           Protocol Length Info
+     28 6.247138       192.168.147.75        192.168.147.104       PTP/IP   76     Picture Transfer Protocol
+
+Frame 28: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47730, Seq: 9, Ack: 21, Len: 8
+Picture Transfer Protocol
+    Length: 8
+    Packet Type: Probe Response Packet (0x0000000e)
+
+No.     Time           Source                Destination           Protocol Length Info
+     29 6.250576       192.168.147.104       192.168.147.75        PTP/IP   86     GetDeviceInfo Transaction ID: 0
+
+Frame 29: 86 bytes on wire (688 bits), 86 bytes captured (688 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 59, Ack: 57, Len: 18
+Picture Transfer Protocol
+    Length: 18
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x1001
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     30 6.258906       192.168.147.75        192.168.147.104       PTP/IP   88     Start Data Packet  Transaction ID: 0
+
+Frame 30: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 57, Ack: 77, Len: 20
+Picture Transfer Protocol
+    Length: 20
+    Packet Type: Start Data Packet (0x00000009)
+    Transaction ID: 0x00000000
+    Total Data Length: 365 (0x000000000000016d)
+
+No.     Time           Source                Destination           Protocol Length Info
+     31 6.259175       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=77 Ack=77 Win=88064 Len=0 TSval=2720745380 TSecr=3846525294
+
+Frame 31: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 77, Ack: 77, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     32 6.259257       192.168.147.75        192.168.147.104       PTP/IP   445    End Data Packet  Transaction ID: 0
+
+Frame 32: 445 bytes on wire (3560 bits), 445 bytes captured (3560 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 77, Ack: 77, Len: 377
+Picture Transfer Protocol
+    Length: 377
+    Packet Type: End Data Packet (0x0000000c)
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     33 6.259345       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=77 Ack=454 Win=89088 Len=0 TSval=2720745380 TSecr=3846525295
+
+Frame 33: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 77, Ack: 454, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     34 6.259386       192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 0
+
+Frame 34: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 454, Ack: 77, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     35 6.259446       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=77 Ack=468 Win=89088 Len=0 TSval=2720745380 TSecr=3846525295
+
+Frame 35: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 77, Ack: 468, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     36 6.289795       192.168.147.104       192.168.147.75        TCP      68     47730 → 15740 [ACK] Seq=21 Ack=17 Win=88064 Len=0 TSval=2720745411 TSecr=3846525283
+
+Frame 36: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 21, Ack: 17, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     37 6.705672       192.168.147.104       192.168.147.75        PTP/IP   90     OpenSession Transaction ID: 0
+
+Frame 37: 90 bytes on wire (720 bits), 90 bytes captured (720 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 77, Ack: 468, Len: 22
+Picture Transfer Protocol
+    Length: 22
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x1002
+    Session ID: 0x00000001
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     38 6.771025       192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 0
+
+Frame 38: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 468, Ack: 99, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     39 6.771630       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=99 Ack=482 Win=89088 Len=0 TSval=2720745892 TSecr=3846525805
+
+Frame 39: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 99, Ack: 482, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     40 6.777830       192.168.147.104       192.168.147.75        PTP/IP   86     Operation Request Packet  Transaction ID: 1
+
+Frame 40: 86 bytes on wire (688 bits), 86 bytes captured (688 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 99, Ack: 482, Len: 18
+Picture Transfer Protocol
+    Length: 18
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x952b
+    Transaction ID: 0x00000001
+
+No.     Time           Source                Destination           Protocol Length Info
+     41 6.787811       192.168.147.75        192.168.147.104       PTP/IP   88     Start Data Packet  Transaction ID: 1
+
+Frame 41: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 482, Ack: 117, Len: 20
+Picture Transfer Protocol
+    Length: 20
+    Packet Type: Start Data Packet (0x00000009)
+    Transaction ID: 0x00000001
+    Total Data Length: 8 (0x0000000000000008)
+
+No.     Time           Source                Destination           Protocol Length Info
+     42 6.788229       192.168.147.75        192.168.147.104       PTP/IP   88     End Data Packet  Transaction ID: 1
+
+Frame 42: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 502, Ack: 117, Len: 20
+Picture Transfer Protocol
+    Length: 20
+    Packet Type: End Data Packet (0x0000000c)
+    Transaction ID: 0x00000001
+
+No.     Time           Source                Destination           Protocol Length Info
+     43 6.788294       192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 1
+
+Frame 43: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 522, Ack: 117, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000001
+
+No.     Time           Source                Destination           Protocol Length Info
+     44 6.789679       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=117 Ack=536 Win=89088 Len=0 TSval=2720745910 TSecr=3846525823
+
+Frame 44: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 117, Ack: 536, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     45 6.792361       192.168.147.104       192.168.147.75        PTP/IP   90     Operation Request Packet  Transaction ID: 2
+
+Frame 45: 90 bytes on wire (720 bits), 90 bytes captured (720 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 117, Ack: 536, Len: 22
+Picture Transfer Protocol
+    Length: 22
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x935a
+    Transaction ID: 0x00000002
+
+No.     Time           Source                Destination           Protocol Length Info
+     46 6.801116       192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 2
+
+Frame 46: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 536, Ack: 139, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000002
+
+No.     Time           Source                Destination           Protocol Length Info
+     47 6.808768       192.168.147.75        192.168.147.104       PTP/IP   86     Event Packet  Transaction ID: -1
+
+Frame 47: 86 bytes on wire (688 bits), 86 bytes captured (688 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47730, Seq: 17, Ack: 21, Len: 18
+Picture Transfer Protocol
+    Length: 18
+    Packet Type: Event Packet (0x00000008)
+    Event Code: 0x4008
+    Transaction ID: 0xffffffff
+
+No.     Time           Source                Destination           Protocol Length Info
+     48 6.809207       192.168.147.104       192.168.147.75        TCP      68     47730 → 15740 [ACK] Seq=21 Ack=35 Win=88064 Len=0 TSval=2720745930 TSecr=3846525843
+
+Frame 48: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 21, Ack: 35, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     49 6.809306       192.168.147.75        192.168.147.104       TCP      68     15740 → 47730 [FIN, ACK] Seq=35 Ack=21 Win=28960 Len=0 TSval=3846525844 TSecr=2720745411
+
+Frame 49: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47730, Seq: 35, Ack: 21, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     50 6.839049       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [FIN, ACK] Seq=139 Ack=550 Win=89088 Len=0 TSval=2720745960 TSecr=3846525836
+
+Frame 50: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 139, Ack: 550, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     51 6.843928       192.168.147.104       192.168.147.75        TCP      68     47730 → 15740 [FIN, ACK] Seq=21 Ack=36 Win=88064 Len=0 TSval=2720745961 TSecr=3846525844
+
+Frame 51: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47730, Dst Port: 15740, Seq: 21, Ack: 36, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     52 6.849505       192.168.147.75        192.168.147.104       TCP      68     15740 → 47730 [ACK] Seq=36 Ack=22 Win=28960 Len=0 TSval=3846525885 TSecr=2720745961
+
+Frame 52: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47730, Seq: 36, Ack: 22, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     53 6.849870       192.168.147.75        192.168.147.104       TCP      68     15740 → 47728 [FIN, ACK] Seq=550 Ack=140 Win=28960 Len=0 TSval=3846525886 TSecr=2720745960
+
+Frame 53: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47728, Seq: 550, Ack: 140, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     54 6.850021       192.168.147.104       192.168.147.75        TCP      68     47728 → 15740 [ACK] Seq=140 Ack=551 Win=89088 Len=0 TSval=2720745971 TSecr=3846525886
+
+Frame 54: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47728, Dst Port: 15740, Seq: 140, Ack: 551, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     55 6.963721       192.168.147.75        224.0.0.251           MDNS     333    Standard query response 0x0000 A, cache flush 192.168.147.75 PTR, cache flush bfeb8148-192-168-147-075.local PTR Z_8_5003869._ptp._tcp.local SRV, cache flush 0 0 15740 bfeb8148-192-168-147-075.local TXT, cache flush PTR _ptp._tcp.local
+
+Frame 55: 333 bytes on wire (2664 bits), 333 bytes captured (2664 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     56 21.514311      192.168.147.75        224.0.0.251           MDNS     155    Standard query 0x0000 ANY 75.147.168.192.in-addr.arpa, "QM" question ANY 82a801c1-192-168-147-075.local, "QM" question A 192.168.147.75 PTR 82a801c1-192-168-147-075.local
+
+Frame 56: 155 bytes on wire (1240 bits), 155 bytes captured (1240 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     57 21.920347      192.168.147.75        224.0.0.251           MDNS     155    Standard query 0x0000 ANY 75.147.168.192.in-addr.arpa, "QM" question ANY 82a801c1-192-168-147-075.local, "QM" question A 192.168.147.75 PTR 82a801c1-192-168-147-075.local
+
+Frame 57: 155 bytes on wire (1240 bits), 155 bytes captured (1240 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     58 21.928676      192.168.147.75        224.0.0.251           MDNS     155    Standard query 0x0000 ANY 75.147.168.192.in-addr.arpa, "QM" question ANY 82a801c1-192-168-147-075.local, "QM" question A 192.168.147.75 PTR 82a801c1-192-168-147-075.local
+
+Frame 58: 155 bytes on wire (1240 bits), 155 bytes captured (1240 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     59 22.123668      192.168.147.75        224.0.0.251           MDNS     143    Standard query response 0x0000 PTR, cache flush 82a801c1-192-168-147-075.local A, cache flush 192.168.147.75
+
+Frame 59: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     60 22.326055      192.168.147.75        224.0.0.251           MDNS     300    Standard query 0x0000 ANY Z_8_5003869._ptp._tcp.local, "QM" question ANY 82a801c1-192-168-147-075.local, "QM" question ANY 75.147.168.192.in-addr.arpa, "QM" question A 192.168.147.75 PTR 82a801c1-192-168-147-075.local SRV 0 0 15740 82a801c1-192-168-147-075.local TXT
+
+Frame 60: 300 bytes on wire (2400 bits), 300 bytes captured (2400 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     61 22.733116      192.168.147.75        224.0.0.251           MDNS     300    Standard query 0x0000 ANY Z_8_5003869._ptp._tcp.local, "QM" question ANY 82a801c1-192-168-147-075.local, "QM" question ANY 75.147.168.192.in-addr.arpa, "QM" question A 192.168.147.75 PTR 82a801c1-192-168-147-075.local SRV 0 0 15740 82a801c1-192-168-147-075.local TXT
+
+Frame 61: 300 bytes on wire (2400 bits), 300 bytes captured (2400 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (query)
+
+No.     Time           Source                Destination           Protocol Length Info
+     62 22.944073      192.168.147.75        224.0.0.251           MDNS     143    Standard query response 0x0000 PTR, cache flush 82a801c1-192-168-147-075.local A, cache flush 192.168.147.75
+
+Frame 62: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     63 23.143206      192.168.147.75        224.0.0.251           MDNS     276    Standard query response 0x0000 TXT, cache flush PTR Z_8_5003869._ptp._tcp.local SRV, cache flush 0 0 15740 82a801c1-192-168-147-075.local PTR _ptp._tcp.local
+
+Frame 63: 276 bytes on wire (2208 bits), 276 bytes captured (2208 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     64 24.373341      192.168.147.75        224.0.0.251           MDNS     333    Standard query response 0x0000 TXT, cache flush A, cache flush 192.168.147.75 PTR, cache flush 82a801c1-192-168-147-075.local PTR Z_8_5003869._ptp._tcp.local SRV, cache flush 0 0 15740 82a801c1-192-168-147-075.local PTR _ptp._tcp.local
+
+Frame 64: 333 bytes on wire (2664 bits), 333 bytes captured (2664 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     65 24.601205      192.168.147.104       192.168.147.75        TCP      76     47732 → 15740 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 SACK_PERM TSval=2720763722 TSecr=0 WS=1024
+
+Frame 65: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     66 25.295791      192.168.147.75        192.168.147.104       TCP      76     15740 → 47732 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1460 SACK_PERM TSval=3846543823 TSecr=2720763722 WS=16
+
+Frame 66: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     67 25.296583      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=1 Ack=1 Win=88064 Len=0 TSval=2720764417 TSecr=3846543823
+
+Frame 67: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     68 25.307250      192.168.147.104       192.168.147.75        PTP/IP   126    Init Command Request GUID: e9dca7d89c7b440dba010f9e04c0ec23 Name: 䄀渀搀爀漀椀搀 䐀攀瘀椀挀攀
+
+Frame 68: 126 bytes on wire (1008 bits), 126 bytes captured (1008 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 1, Ack: 1, Len: 58
+Picture Transfer Protocol
+    Length: 58
+    Packet Type: Init Command Request Packet (0x00000001)
+    GUID: e9dca7d89c7b440dba010f9e04c0ec23
+    Host Name: 䄀渀搀爀漀椀搀 䐀攀瘀椀挀攀
+    Version: 1.0
+
+No.     Time           Source                Destination           Protocol Length Info
+     69 25.316485      192.168.147.75        192.168.147.104       TCP      68     15740 → 47732 [ACK] Seq=1 Ack=59 Win=28960 Len=0 TSval=3846544352 TSecr=2720764428
+
+Frame 69: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 1, Ack: 59, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     70 25.317388      192.168.147.75        192.168.147.104       PTP/IP   124    Init Command Ack Connection #:1 GUID: 04b004510000100180013cbee134e25a Name: Z_8_5003869
+
+Frame 70: 124 bytes on wire (992 bits), 124 bytes captured (992 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 1, Ack: 59, Len: 56
+Picture Transfer Protocol
+    Length: 56
+    Packet Type: Init Command ACK Packet (0x00000002)
+    Connection Number: 1
+    GUID: 04b004510000100180013cbee134e25a
+    Host Name: Z_8_5003869
+    Version: 1.0
+
+No.     Time           Source                Destination           Protocol Length Info
+     71 25.317660      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=59 Ack=57 Win=88064 Len=0 TSval=2720764438 TSecr=3846544353
+
+Frame 71: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 59, Ack: 57, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     72 25.322759      192.168.147.104       192.168.147.75        TCP      76     47734 → 15740 [SYN] Seq=0 Win=65535 Len=0 MSS=1460 SACK_PERM TSval=2720764444 TSecr=0 WS=1024
+
+Frame 72: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47734, Dst Port: 15740, Seq: 0, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     73 25.328837      192.168.147.75        192.168.147.104       TCP      76     15740 → 47734 [SYN, ACK] Seq=0 Ack=1 Win=28960 Len=0 MSS=1460 SACK_PERM TSval=3846544365 TSecr=2720764444 WS=16
+
+Frame 73: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47734, Seq: 0, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     74 25.329228      192.168.147.104       192.168.147.75        TCP      68     47734 → 15740 [ACK] Seq=1 Ack=1 Win=88064 Len=0 TSval=2720764450 TSecr=3846544365
+
+Frame 74: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47734, Dst Port: 15740, Seq: 1, Ack: 1, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     75 25.345917      192.168.147.104       192.168.147.75        PTP/IP   80     Init Event Request Connection #:1
+
+Frame 75: 80 bytes on wire (640 bits), 80 bytes captured (640 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47734, Dst Port: 15740, Seq: 1, Ack: 1, Len: 12
+Picture Transfer Protocol
+    Length: 12
+    Packet Type: Init Event Request Packet (0x00000003)
+    Connection Number: 1
+
+No.     Time           Source                Destination           Protocol Length Info
+     76 25.353693      192.168.147.75        192.168.147.104       TCP      68     15740 → 47734 [ACK] Seq=1 Ack=13 Win=28960 Len=0 TSval=3846544389 TSecr=2720764467
+
+Frame 76: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47734, Seq: 1, Ack: 13, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     77 25.354029      192.168.147.75        192.168.147.104       PTP/IP   76     Init Event Ack
+
+Frame 77: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47734, Seq: 1, Ack: 13, Len: 8
+Picture Transfer Protocol
+    Length: 8
+    Packet Type: Init Event Ack Packet (0x00000004)
+
+No.     Time           Source                Destination           Protocol Length Info
+     78 25.354196      192.168.147.104       192.168.147.75        TCP      68     47734 → 15740 [ACK] Seq=13 Ack=9 Win=88064 Len=0 TSval=2720764475 TSecr=3846544390
+
+Frame 78: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47734, Dst Port: 15740, Seq: 13, Ack: 9, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     79 25.357860      192.168.147.104       192.168.147.75        PTP/IP   76     Picture Transfer Protocol
+
+Frame 79: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47734, Dst Port: 15740, Seq: 13, Ack: 9, Len: 8
+Picture Transfer Protocol
+    Length: 8
+    Packet Type: Probe Request Packet (0x0000000d)
+
+No.     Time           Source                Destination           Protocol Length Info
+     80 25.365963      192.168.147.75        192.168.147.104       PTP/IP   76     Picture Transfer Protocol
+
+Frame 80: 76 bytes on wire (608 bits), 76 bytes captured (608 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47734, Seq: 9, Ack: 21, Len: 8
+Picture Transfer Protocol
+    Length: 8
+    Packet Type: Probe Response Packet (0x0000000e)
+
+No.     Time           Source                Destination           Protocol Length Info
+     81 25.368829      192.168.147.104       192.168.147.75        PTP/IP   86     GetDeviceInfo Transaction ID: 0
+
+Frame 81: 86 bytes on wire (688 bits), 86 bytes captured (688 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 59, Ack: 57, Len: 18
+Picture Transfer Protocol
+    Length: 18
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x1001
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     82 25.377210      192.168.147.75        192.168.147.104       PTP/IP   88     Start Data Packet  Transaction ID: 0
+
+Frame 82: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 57, Ack: 77, Len: 20
+Picture Transfer Protocol
+    Length: 20
+    Packet Type: Start Data Packet (0x00000009)
+    Transaction ID: 0x00000000
+    Total Data Length: 643 (0x0000000000000283)
+
+No.     Time           Source                Destination           Protocol Length Info
+     83 25.377656      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=77 Ack=77 Win=88064 Len=0 TSval=2720764498 TSecr=3846544413
+
+Frame 83: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 77, Ack: 77, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     84 25.377781      192.168.147.75        192.168.147.104       PTP/IP   723    End Data Packet  Transaction ID: 0
+
+Frame 84: 723 bytes on wire (5784 bits), 723 bytes captured (5784 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 77, Ack: 77, Len: 655
+Picture Transfer Protocol
+    Length: 655
+    Packet Type: End Data Packet (0x0000000c)
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     85 25.377912      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=77 Ack=732 Win=89088 Len=0 TSval=2720764499 TSecr=3846544413
+
+Frame 85: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 77, Ack: 732, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     86 25.377971      192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 0
+
+Frame 86: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 732, Ack: 77, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     87 25.378053      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=77 Ack=746 Win=89088 Len=0 TSval=2720764499 TSecr=3846544414
+
+Frame 87: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 77, Ack: 746, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     88 25.409803      192.168.147.104       192.168.147.75        TCP      68     47734 → 15740 [ACK] Seq=21 Ack=17 Win=88064 Len=0 TSval=2720764531 TSecr=3846544400
+
+Frame 88: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47734, Dst Port: 15740, Seq: 21, Ack: 17, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     89 25.599991      192.168.147.75        224.0.0.251           MDNS     143    Standard query response 0x0000 PTR, cache flush 82a801c1-192-168-147-075.local A, cache flush 192.168.147.75
+
+Frame 89: 143 bytes on wire (1144 bits), 143 bytes captured (1144 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 224.0.0.251
+User Datagram Protocol, Src Port: 5353, Dst Port: 5353
+Multicast Domain Name System (response)
+
+No.     Time           Source                Destination           Protocol Length Info
+     90 26.067955      192.168.147.104       192.168.147.75        PTP/IP   90     OpenSession Transaction ID: 0
+
+Frame 90: 90 bytes on wire (720 bits), 90 bytes captured (720 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 77, Ack: 746, Len: 22
+Picture Transfer Protocol
+    Length: 22
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x1002
+    Session ID: 0x00000001
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     91 26.227274      192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 0
+
+Frame 91: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 746, Ack: 99, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000000
+
+No.     Time           Source                Destination           Protocol Length Info
+     92 26.227730      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=99 Ack=760 Win=89088 Len=0 TSval=2720765349 TSecr=3846545261
+
+Frame 92: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 99, Ack: 760, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     93 26.232473      192.168.147.104       192.168.147.75        PTP/IP   98     Operation Request Packet  Transaction ID: 1
+
+Frame 93: 98 bytes on wire (784 bits), 98 bytes captured (784 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 99, Ack: 760, Len: 30
+Picture Transfer Protocol
+    Length: 30
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x944c
+    Transaction ID: 0x00000001
+
+No.     Time           Source                Destination           Protocol Length Info
+     94 26.240793      192.168.147.75        192.168.147.104       PTP/IP   88     Start Data Packet  Transaction ID: 1
+
+Frame 94: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 760, Ack: 129, Len: 20
+Picture Transfer Protocol
+    Length: 20
+    Packet Type: Start Data Packet (0x00000009)
+    Transaction ID: 0x00000001
+    Total Data Length: 32 (0x0000000000000020)
+
+No.     Time           Source                Destination           Protocol Length Info
+     95 26.241151      192.168.147.75        192.168.147.104       PTP/IP   112    End Data Packet  Transaction ID: 1
+
+Frame 95: 112 bytes on wire (896 bits), 112 bytes captured (896 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 780, Ack: 129, Len: 44
+Picture Transfer Protocol
+    Length: 44
+    Packet Type: End Data Packet (0x0000000c)
+    Transaction ID: 0x00000001
+
+No.     Time           Source                Destination           Protocol Length Info
+     96 26.241249      192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 1
+
+Frame 96: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 824, Ack: 129, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000001
+
+No.     Time           Source                Destination           Protocol Length Info
+     97 26.242600      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=129 Ack=838 Win=89088 Len=0 TSval=2720765363 TSecr=3846545276
+
+Frame 97: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 129, Ack: 838, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+     98 26.298229      192.168.147.104       192.168.147.75        PTP/IP   86     Operation Request Packet  Transaction ID: 2
+
+Frame 98: 86 bytes on wire (688 bits), 86 bytes captured (688 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 129, Ack: 838, Len: 18
+Picture Transfer Protocol
+    Length: 18
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000002
+    Operation Code: 0x952a
+    Transaction ID: 0x00000002
+
+No.     Time           Source                Destination           Protocol Length Info
+     99 26.300737      192.168.147.104       192.168.147.75        PTP/IP   88     Start Data Packet  Transaction ID: 2
+
+Frame 99: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 147, Ack: 838, Len: 20
+Picture Transfer Protocol
+    Length: 20
+    Packet Type: Start Data Packet (0x00000009)
+    Transaction ID: 0x00000002
+    Total Data Length: 10 (0x000000000000000a)
+
+No.     Time           Source                Destination           Protocol Length Info
+    100 26.301174      192.168.147.104       192.168.147.75        PTP/IP   90     End Data Packet  Transaction ID: 2
+
+Frame 100: 90 bytes on wire (720 bits), 90 bytes captured (720 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 167, Ack: 838, Len: 22
+Picture Transfer Protocol
+    Length: 22
+    Packet Type: End Data Packet (0x0000000c)
+    Transaction ID: 0x00000002
+
+No.     Time           Source                Destination           Protocol Length Info
+    101 26.308261      192.168.147.75        192.168.147.104       TCP      68     15740 → 47732 [ACK] Seq=838 Ack=189 Win=28960 Len=0 TSval=3846545344 TSecr=2720765419
+
+Frame 101: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 838, Ack: 189, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    102 26.315187      192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 2
+
+Frame 102: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 838, Ack: 189, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000002
+
+No.     Time           Source                Destination           Protocol Length Info
+    103 26.357786      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=189 Ack=852 Win=89088 Len=0 TSval=2720765479 TSecr=3846545350
+
+Frame 103: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 189, Ack: 852, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    104 27.232704      192.168.147.104       192.168.147.75        PTP/IP   86     Operation Request Packet  Transaction ID: 3
+
+Frame 104: 86 bytes on wire (688 bits), 86 bytes captured (688 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 189, Ack: 852, Len: 18
+Picture Transfer Protocol
+    Length: 18
+    Packet Type: Operation Request Packet (0x00000006)
+    Data Phase Info: 0x00000001
+    Operation Code: 0x941c
+    Transaction ID: 0x00000003
+
+No.     Time           Source                Destination           Protocol Length Info
+    105 27.547296      192.168.147.75        192.168.147.104       PTP/IP   88     Start Data Packet  Transaction ID: 3
+
+Frame 105: 88 bytes on wire (704 bits), 88 bytes captured (704 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 852, Ack: 207, Len: 20
+Picture Transfer Protocol
+    Length: 20
+    Packet Type: Start Data Packet (0x00000009)
+    Transaction ID: 0x00000003
+    Total Data Length: 12 (0x000000000000000c)
+
+No.     Time           Source                Destination           Protocol Length Info
+    106 27.547945      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=207 Ack=872 Win=89088 Len=0 TSval=2720766669 TSecr=3846546488
+
+Frame 106: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 207, Ack: 872, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    107 27.548113      192.168.147.75        192.168.147.104       PTP/IP   92     End Data Packet  Transaction ID: 3
+
+Frame 107: 92 bytes on wire (736 bits), 92 bytes captured (736 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 872, Ack: 207, Len: 24
+Picture Transfer Protocol
+    Length: 24
+    Packet Type: End Data Packet (0x0000000c)
+    Transaction ID: 0x00000003
+
+No.     Time           Source                Destination           Protocol Length Info
+    108 27.548240      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=207 Ack=896 Win=89088 Len=0 TSval=2720766669 TSecr=3846546488
+
+Frame 108: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 207, Ack: 896, Len: 0
+
+No.     Time           Source                Destination           Protocol Length Info
+    109 27.548302      192.168.147.75        192.168.147.104       PTP/IP   82     Operation Response Packet  Transaction ID: 3
+
+Frame 109: 82 bytes on wire (656 bits), 82 bytes captured (656 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.75, Dst: 192.168.147.104
+Transmission Control Protocol, Src Port: 15740, Dst Port: 47732, Seq: 896, Ack: 207, Len: 14
+Picture Transfer Protocol
+    Length: 14
+    Packet Type: Operation Response Packet (0x00000007)
+    Operation Code: OK (0x2001)
+    Transaction ID: 0x00000003
+
+No.     Time           Source                Destination           Protocol Length Info
+    110 27.552522      192.168.147.104       192.168.147.75        TCP      68     47732 → 15740 [ACK] Seq=207 Ack=910 Win=89088 Len=0 TSval=2720766673 TSecr=3846546489
+
+Frame 110: 68 bytes on wire (544 bits), 68 bytes captured (544 bits)
+Linux cooked capture v1
+Internet Protocol Version 4, Src: 192.168.147.104, Dst: 192.168.147.75
+Transmission Control Protocol, Src Port: 47732, Dst Port: 15740, Seq: 207, Ack: 910, Len: 0
