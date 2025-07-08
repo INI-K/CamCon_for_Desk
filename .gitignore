@@ -1,0 +1,16 @@
+# IDE files
+.idea/ChatHistory_schema_v2.xml
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs
+logs/
+
+# Downloads
+downloads/
+
+# Capture files
+*.pcap
